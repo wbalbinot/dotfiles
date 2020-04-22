@@ -1,0 +1,15 @@
+2020/04/21-19:21:38.865 374 Reusing MANIFEST /home/wbalbinot/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/21-19:21:38.865 374 Recovering log #11
+2020/04/21-19:21:38.865 374 Reusing old log /home/wbalbinot/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000011.log 
+2020/04/21-19:22:15.393 404 Level-0 table #16: started
+2020/04/21-19:22:15.459 404 Level-0 table #16: 82889 bytes OK
+2020/04/21-19:22:15.494 404 Delete type=0 #11
+2020/04/21-19:22:15.494 404 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/21-19:22:15.495 404 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xb0\x96R\xed\x19wB\x00\x01Y\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00u\x00s\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00s\x00y\x00s\x00t\x00e\x00m\x00/\x002\x005\x00/\x005\x005\x007\x002\x006\x00_\x002\x00.\x00p\x00n\x00g' @ 3630 : 1
+2020/04/21-19:22:15.495 404 Compacting 1@1 + 1@2 files
+2020/04/21-19:22:15.526 404 Generated table #17@1: 437 keys, 53218 bytes
+2020/04/21-19:22:15.526 404 Compacted 1@1 + 1@2 files => 53218 bytes
+2020/04/21-19:22:15.564 404 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/21-19:22:15.565 404 Delete type=2 #13
+2020/04/21-19:22:15.565 404 Delete type=2 #16
+2020/04/21-19:22:15.565 404 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xb0\x96R\xed\x19wB\x00\x01Y\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00u\x00s\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00s\x00y\x00s\x00t\x00e\x00m\x00/\x002\x005\x00/\x005\x005\x007\x002\x006\x00_\x002\x00.\x00p\x00n\x00g' @ 3630 : 1 .. (end); will stop at (end)

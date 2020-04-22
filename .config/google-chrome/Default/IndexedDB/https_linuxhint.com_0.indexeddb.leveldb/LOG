@@ -1,0 +1,5 @@
+2020/04/20-14:53:55.936 73e Reusing MANIFEST /home/wbalbinot/.config/google-chrome/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/20-14:54:07.598 7ff Level-0 table #5: started
+2020/04/20-14:54:07.653 7ff Level-0 table #5: 336 bytes OK
+2020/04/20-14:54:07.667 7ff Delete type=0 #3
+2020/04/20-14:54:07.668 7ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

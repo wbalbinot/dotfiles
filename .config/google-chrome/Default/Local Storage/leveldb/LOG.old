@@ -1,0 +1,6 @@
+2020/04/22-08:28:42.128 37b Reusing MANIFEST /home/wbalbinot/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/22-08:28:42.129 37b Recovering log #78
+2020/04/22-08:28:42.179 37b Reusing old log /home/wbalbinot/.config/google-chrome/Default/Local Storage/leveldb/000078.log 
+2020/04/22-08:45:36.840 616 Level-0 table #82: started
+2020/04/22-08:45:36.901 616 Level-0 table #82: 134630 bytes OK
+2020/04/22-08:45:36.937 616 Delete type=0 #78
