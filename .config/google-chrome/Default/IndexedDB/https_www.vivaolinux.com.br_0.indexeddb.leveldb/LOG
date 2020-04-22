@@ -1,5 +1,0 @@
-2020/04/20-15:43:29.425 a9f Reusing MANIFEST /home/wbalbinot/.config/google-chrome/Default/IndexedDB/https_www.vivaolinux.com.br_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/20-15:44:05.949 98f Level-0 table #5: started
-2020/04/20-15:44:06.005 98f Level-0 table #5: 352 bytes OK
-2020/04/20-15:44:06.027 98f Delete type=0 #3
-2020/04/20-15:44:06.027 98f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,8 +1,0 @@
-2020/04/21-19:09:17.275 6eb Reusing MANIFEST /home/wbalbinot/.config/google-chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/21-19:09:17.276 6eb Recovering log #7
-2020/04/21-19:09:17.276 6eb Reusing old log /home/wbalbinot/.config/google-chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/000007.log 
-2020/04/21-19:09:33.302 79b Level-0 table #11: started
-2020/04/21-19:09:33.302 79b Level-0 table #11: 0 bytes OK
-2020/04/21-19:09:33.348 79b Delete type=0 #7
-2020/04/21-19:09:33.348 79b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/04/21-19:09:33.349 79b Manual compaction at level-1 from (begin) .. (end); will stop at (end)
