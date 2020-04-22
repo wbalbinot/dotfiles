@@ -1,9 +1,7 @@
 # My dotfiles
 My own dotfiles configuration for the .files
 
-## How to install
-Create a symlink for vim on home folder
+## How to use
+Set the files on the ${HOME} folder, then:
 
-`ln -s /fulldir/dotfiles/.vimrc ~/`
-
-Launch `vim` and run `:PluginInstall`
+1. Launch `vim` and run `:PluginInstall`
